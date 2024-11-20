@@ -115,13 +115,6 @@ OUTPUT LATEX.pdf
 INPUT .\imagenes\rutas_migratorias.png
 INPUT .\imagenes\rutas_migratorias.png
 INPUT .\imagenes\rutas_migratorias.png
-INPUT .\imagenes\impacto_remesas.png
-INPUT .\imagenes\impacto_remesas.png
-INPUT .\imagenes\impacto_remesas.png
-INPUT .\imagenes\impacto_remesas.png
-INPUT .\imagenes\impacto_remesas.png
-INPUT .\imagenes\impacto_remesas.png
-INPUT .\imagenes\impacto_remesas.png
 INPUT C:\Users\yolohize\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Users\yolohize\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\yolohize\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
@@ -144,6 +137,13 @@ INPUT C:\Users\yolohize\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr
 INPUT C:\Users\yolohize\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
 INPUT C:\Users\yolohize\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Users\yolohize\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT .\imagenes\impacto_remesas.png
+INPUT .\imagenes\impacto_remesas.png
+INPUT .\imagenes\impacto_remesas.png
+INPUT .\imagenes\impacto_remesas.png
+INPUT .\imagenes\impacto_remesas.png
+INPUT .\imagenes\impacto_remesas.png
+INPUT .\imagenes\impacto_remesas.png
 INPUT .\LATEX.bbl
 INPUT .\LATEX.bbl
 INPUT LATEX.bbl

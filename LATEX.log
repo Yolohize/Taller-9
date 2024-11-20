@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.19)  19 NOV 2024 15:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.19)  19 NOV 2024 18:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -242,27 +242,28 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\yolohize\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 48.
- (C:\Users\yolohize\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 51.
+(C:\Users\yolohize\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-
 <imagenes/rutas_migratorias.png, id=1, 677.53125pt x 716.6775pt>
 File: imagenes/rutas_migratorias.png Graphic file (type png)
 <use imagenes/rutas_migratorias.png>
-Package pdftex.def Info: imagenes/rutas_migratorias.png  used on input line 90.
+Package pdftex.def Info: imagenes/rutas_migratorias.png  used on input line 93.
 (pdftex.def)             Requested size: 232.19843pt x 245.61366pt.
-<imagenes/impacto_remesas.png, id=3, 280.32pt x 157.68pt>
-File: imagenes/impacto_remesas.png Graphic file (type png)
-<use imagenes/impacto_remesas.png>
-Package pdftex.def Info: imagenes/impacto_remesas.png  used on input line 98.
-(pdftex.def)             Requested size: 516.0pt x 290.25499pt.
 
 
 [1{C:/Users/yolohize/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/yolohize/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
 
- <./imagenes/rutas_migratorias.png>] (LATEX.bbl)
+]
+<imagenes/impacto_remesas.png, id=17, 280.32pt x 157.68pt>
+File: imagenes/impacto_remesas.png Graphic file (type png)
+<use imagenes/impacto_remesas.png>
+Package pdftex.def Info: imagenes/impacto_remesas.png  used on input line 101.
+(pdftex.def)             Requested size: 516.0pt x 290.25499pt.
+ (LATEX.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -280,7 +281,7 @@ Before submitting the final camera ready copy, remember to:
 
 [2
 
- <./imagenes/impacto_remesas.png>] (LATEX.aux)
+ <./imagenes/rutas_migratorias.png>] [3 <./imagenes/impacto_remesas.png>] (LATEX.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
@@ -289,15 +290,15 @@ L3 programming layer <2024-11-02>
 Here is how much of TeX's memory you used:
  3118 strings out of 473681
  53077 string characters out of 5717766
- 458019 words of memory out of 5000000
+ 462999 words of memory out of 5000000
  26191 multiletter control sequences out of 15000+600000
  594415 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,9n,65p,423b,281s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,9n,65p,796b,281s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/yolohize/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/yolohize/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/yolohize/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/yolohize/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/yolohize/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/yolohize/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/yolohize/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/yolohize/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/yolohize/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/yolohize/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on LATEX.pdf (2 pages, 1804223 bytes).
+Output written on LATEX.pdf (3 pages, 1808243 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
+ 68 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

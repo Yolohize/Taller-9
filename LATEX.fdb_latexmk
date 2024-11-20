@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex LATEX"] 1732050017.37789 "LATEX.aux" "LATEX.bbl" "LATEX" 1732050019.00834 0
+["bibtex LATEX"] 1732063784.92506 "LATEX.aux" "LATEX.bbl" "LATEX" 1732063786.54137 0
   "./referencias.bib" 1732049625 393 0c9b55f16d00f9edd8797f3297ac31d6 ""
   "C:/Users/yolohize/AppData/Local/Programs/MiKTeX/bibtex/bst/ieeetran/IEEEtran.bst" 1440622569 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "LATEX.aux" 1732050018 2243 7df455fc9b271d70a185050a46f33e00 "pdflatex"
+  "LATEX.aux" 1732063785 2243 8267c9ead5d902b55443e1e80cd1864e "pdflatex"
   (generated)
   "LATEX.bbl"
   "LATEX.blg"
   (rewritten before read)
-["pdflatex"] 1732050017.64769 "c:/Users/yolohize/Downloads/LATEX/LATEX.tex" "LATEX.pdf" "LATEX" 1732050019.00907 0
+["pdflatex"] 1732063785.2491 "c:/Users/yolohize/Downloads/LATEX/LATEX.tex" "LATEX.pdf" "LATEX" 1732063786.54255 0
   "C:/Users/yolohize/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1732049629 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/yolohize/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1732049632 11988383 1c51ec927861099038c2f511e4d1d1dd ""
   "C:/Users/yolohize/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -66,10 +66,10 @@
   "C:/Users/yolohize/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
   "C:/Users/yolohize/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ot1ptm.fd" 1585253778 1007 15056f4a61917ceed3a44e4ac11fcc52 ""
   "C:/Users/yolohize/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ts1ptm.fd" 1585253778 653 96f56dc5d1ef1fe1121f1cfeec70ee0c ""
-  "LATEX.aux" 1732050018 2243 7df455fc9b271d70a185050a46f33e00 "pdflatex"
-  "LATEX.bbl" 1732050017 1053 dfb8609184b6b3475897fb9a87d9f0c4 "bibtex LATEX"
-  "LATEX.tex" 1732049625 4293 f4448aad1f45fea605613a5e7d7e2490 ""
-  "c:/Users/yolohize/Downloads/LATEX/LATEX.tex" 1732049625 4293 f4448aad1f45fea605613a5e7d7e2490 ""
+  "LATEX.aux" 1732063785 2243 8267c9ead5d902b55443e1e80cd1864e "pdflatex"
+  "LATEX.bbl" 1732063785 1053 dfb8609184b6b3475897fb9a87d9f0c4 "bibtex LATEX"
+  "LATEX.tex" 1732063781 7125 616a9c05b8f5f0586abb01b3685eb0db ""
+  "c:/Users/yolohize/Downloads/LATEX/LATEX.tex" 1732063781 7125 616a9c05b8f5f0586abb01b3685eb0db ""
   "imagenes/impacto_remesas.png" 1732049994 983591 df1f7402960a43fd62f0942b93c805e0 ""
   "imagenes/rutas_migratorias.png" 1732049865 529466 89112c248dbaa9c21e828ec75025808c ""
   (generated)
